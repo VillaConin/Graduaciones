@@ -370,21 +370,29 @@
         </div>
       </div>
       <div class="form-block w-form">
-        <form id="email-form" name="email-form" data-name="Email Form" method="post" action="https://vcgraduaciones.com.mx/formmail.php" data-w-id="5f9e6a10-276f-3c20-3f8d-784ec82a2636" class="form"><input type="text" class="contact-input w-input" maxlength="256" name="Nombre-2" data-name="Nombre 2" placeholder="Nombre" id="Nombre-2" required=""><input type="email" class="contact-input w-input" maxlength="256" name="Correo-2" data-name="Correo 2" placeholder="Correo Electrónico" id="Correo-2" required=""><input type="tel" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263c-c82a2618 w-input" maxlength="256" name="Telefono-2" data-name="Telefono 2" placeholder="No. Teléfono" id="Telefono-2" required=""><select id="Servicio-De-Interes" name="Servicio-De-Interes" data-name="Servicio De Interes" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263d-c82a2618 w-select">
+        <form
+          id="email-form"
+          name="Contacto"
+          action="/exito"
+          method="POST"
+          data-netlify="true"
+          data-netlify-recaptcha="true"
+          class="form"
+        >
+          <input type="text" class="contact-input w-input" maxlength="256" name="Nombre" placeholder="Nombre" id="name" required="">
+          <input type="email" class="contact-input w-input" maxlength="256" name="Email" placeholder="Correo Electrónico" id="email" required="">
+          <input type="tel" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263c-c82a2618 w-input" maxlength="256" name="Telefono" placeholder="No. Teléfono" id="phone" required="">
+          <select id="servicio-de-interes" name="Servicio de interes" class="contact-input w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263d-c82a2618 w-select">
             <option value="Servicio de interés...">Servicio de interés...</option>
             <option value="Boda">Boda</option>
             <option value="XV Años">XV Años</option>
             <option value="Graduación">Graduación</option>
             <option value="Evento Empresarial">Evento Empresarial</option>
             <option value="Otro">Otro</option>
-          </select><textarea placeholder="Déjanos un mensaje" maxlength="5000" id="Mensaje-3" name="Mensaje" data-name="Mensaje" class="contact-input message w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263f-c82a2618 w-input"></textarea>
-          <div class="w-embed"><input type="hidden" name="recipients" value="ventas@vcgraduaciones.com.mx">
-            <input type="hidden" name="good_url" value="https://vcgraduaciones.com.mx/exito.html">
-            <input type="hidden" name="bad_url" value="https://vcgraduaciones.com.mx/falla.html">
-            <input type="hidden" name="subject" value="Mensaje De Forma De Contacto">
-            <input type="hidden" name="derive_fields" value="imgverify=g-recaptcha-response">
-            <div class="g-recaptcha" data-sitekey="6LfTbGkbAAAAAIiy6t7k1qfGH5_coyn29jxu7L3B"></div>
-          </div><input type="submit" value="Enviar" data-wait="Please wait..." id="w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a2640-c82a2618" class="button-contained w-button">
+          </select>
+          <textarea placeholder="Déjanos un mensaje" maxlength="5000" id="message" name="Mensaje" class="contact-input message w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a263f-c82a2618 w-input"></textarea>
+          <div data-netlify-recaptcha="true"></div>
+          <button type="submit" data-wait="Please wait..." id="w-node-_5f9e6a10-276f-3c20-3f8d-784ec82a2640-c82a2618" class="button w-button">Enviar</button>
         </form>
         <div class="w-form-done">
           <div>Thank you! Your submission has been received!</div>
