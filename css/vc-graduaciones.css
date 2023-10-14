@@ -1819,20 +1819,32 @@ body {
   background-image: url('/images/alcazar-slide-03.jpg');
 }
 
+.salon-recepcion-01 {
+  background-image: url('/images/recepcion-slide-01.jpg');
+}
+
+.salon-recepcion-02 {
+  background-image: url('/images/recepcion-slide-02.jpg');
+}
+
+.salon-recepcion-03 {
+  background-image: url('/images/recepcion-slide-03.jpg');
+}
+
+.salon-recepcion-04 {
+  background-image: url('/images/recepcion-slide-04.jpg');
+}
+
+.salon-recepcion-05 {
+  background-image: url('/images/recepcion-slide-05.jpg');
+}
+
 .col-img-slide.salon._26 {
   background-image: none;
 }
 
 .col-img-slide.salon._27 {
   background-image: none;
-}
-
-.col-img-slide.salon._31 {
-  background-image: url('../images/recepcion-slide-01.jpg');
-}
-
-.col-img-slide.salon._32 {
-  background-image: url('../images/recepcion-slide-02.jpg');
 }
 
 .col-img-slide.salon._33 {
@@ -1847,17 +1859,6 @@ body {
   background-image: url('../images/alcazar-slide-04.jpg');
 }
 
-.col-img-slide.salon._44 {
-  background-image: url('../images/recepcion-slide-03.jpg');
-}
-
-.col-img-slide.salon._45 {
-  background-image: url('../images/recepcion-slide-04.jpg');
-}
-
-.col-img-slide.salon._46 {
-  background-image: url('../images/recepcion-slide-05.jpg');
-}
 
 .col-img-slide._03 {
   background-image: url('../images/banquete-slide-02.jpg');
@@ -6259,16 +6260,6 @@ body {
     height: 400px;
   }
 
-  .col-img-slide.salon._31 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._32 {
-    height: 400px;
-    background-image: url('../images/recepcion-slide-02.jpg');
-    background-position: 50% 50%;
-  }
-
   .col-img-slide.salon._33 {
     height: 400px;
   }
@@ -6287,21 +6278,6 @@ body {
     background-image: url('../images/alcazar-slide-04.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._44 {
-    height: 400px;
-    background-image: url('../images/recepcion-slide-03.jpg');
-  }
-
-  .col-img-slide.salon._45 {
-    height: 400px;
-    background-image: url('../images/recepcion-slide-04.jpg');
-  }
-
-  .col-img-slide.salon._46 {
-    height: 400px;
-    background-image: url('../images/recepcion-slide-05.jpg');
   }
 
   .slider-arrow {
