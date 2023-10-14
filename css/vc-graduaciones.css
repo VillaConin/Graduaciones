@@ -1791,29 +1791,20 @@ body {
   background-image: url('/images/real-slide-07.jpg');
 }
 
-.col-img-slide.salon._19 {
-  background-image: url('../images/solar-slide-01.jpg');
+.salon-solar-01 {
+  background-image: url('/images/solar-slide-01.jpg');
 }
 
-.col-img-slide.salon._20 {
-  background-image: url('../images/solar-slide-02.jpg');
+.solar-slide-02 {
+  background-image: url('/images/solar-slide-02.jpg');
 }
 
-.col-img-slide.salon._21 {
-  background-image: url('../images/solar-slide-03.jpg');
+.solar-slide-03 {
+  background-image: url('/images/solar-slide-03.jpg');
 }
 
-.col-img-slide.salon._22 {
-  background-image: url('../images/solar-slide-04.jpg');
-}
-
-.col-img-slide.salon._23 {
-  background-image: url('../images/solar-slide-05.jpg');
-}
-
-.col-img-slide.salon._24 {
-  background-image: url('../images/solar-conin-slide-07.jpg');
-  background-position: 50% 50%;
+.solar-slide-04 {
+  background-image: url('/images/solar-slide-04.jpg');
 }
 
 .col-img-slide.salon._25 {
@@ -1866,10 +1857,6 @@ body {
 
 .col-img-slide.salon._46 {
   background-image: url('../images/recepcion-slide-05.jpg');
-}
-
-.col-img-slide.salon._47 {
-  background-image: url('../images/solar-slide-07.jpg');
 }
 
 .col-img-slide._03 {
@@ -6272,31 +6259,6 @@ body {
     height: 400px;
   }
 
-  .col-img-slide.salon._19 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._20 {
-    height: 400px;
-    background-position: 50% 50%;
-  }
-
-  .col-img-slide.salon._21 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._22 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._23 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._24 {
-    height: 400px;
-  }
-
   .col-img-slide.salon._25 {
     height: 400px;
   }
@@ -6352,10 +6314,6 @@ body {
   .col-img-slide.salon._46 {
     height: 400px;
     background-image: url('../images/recepcion-slide-05.jpg');
-  }
-
-  .col-img-slide.salon._47 {
-    height: 400px;
   }
 
   .slider-arrow {
