@@ -1807,8 +1807,16 @@ body {
   background-image: url('/images/solar-slide-04.jpg');
 }
 
-.col-img-slide.salon._25 {
-  background-image: url('../images/alcazar-slide-01.jpg');
+.salon-alcazar-01 {
+  background-image: url('/images/alcazar-slide-01.jpg');
+}
+
+.salon-alcazar-02 {
+  background-image: url('/images/alcazar-slide-02.jpg');
+}
+
+.salon-alcazar-03 {
+  background-image: url('/images/alcazar-slide-03.jpg');
 }
 
 .col-img-slide.salon._26 {
@@ -1817,14 +1825,6 @@ body {
 
 .col-img-slide.salon._27 {
   background-image: none;
-}
-
-.col-img-slide.salon._28 {
-  background-image: url('../images/alcazar-slide-02.jpg');
-}
-
-.col-img-slide.salon._29 {
-  background-image: url('../images/alcazar-slide-03.jpg');
 }
 
 .col-img-slide.salon._31 {
@@ -6256,18 +6256,6 @@ body {
   }
 
   .salones-slider .col-img-slide {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._25 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._28 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._29 {
     height: 400px;
   }
 
