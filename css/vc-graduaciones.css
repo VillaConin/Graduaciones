@@ -3271,6 +3271,53 @@ body {
   background-color: transparent;
 }
 
+.gallery-slide {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+.gallery-slide-01 {
+  background-image: url('/images/gallery-slide-01.jpg');
+  /* background-position: 50% 100%; */
+}
+
+.gallery-slide-02 {
+  background-image: url('/images/gallery-slide-02.jpg');
+}
+
+.gallery-slide-03 {
+  background-image: url('/images/gallery-slide-03.jpg');
+}
+
+.gallery-slide-04 {
+  background-image: url('/images/gallery-slide-04.jpg');
+}
+
+.gallery-slide-05 {
+  background-image: url('/images/gallery-slide-05.jpg');
+}
+
+.gallery-slide-06 {
+  background-image: url('/images/gallery-slide-06.jpg');
+}
+
+.gallery-slide-07 {
+  background-image: url('/images/gallery-slide-07.jpg');
+}
+
+.gallery-slide-08 {
+  background-image: url('/images/gallery-slide-08.jpg');
+}
+
+.gallery-slide-09 {
+  background-image: url('/images/gallery-slide-09.jpg');
+}
+
+.gallery-slide-10 {
+  background-image: url('/images/gallery-slide-10.jpg');
+}
+
 .slide-1 {
   background-image: url('../images/bodas-slide-01.jpg');
   background-position: 50% 50%;
@@ -3322,48 +3369,6 @@ body {
   background-image: url('../images/vc-slide-01.jpg');
   background-position: 50% 50%;
   background-size: cover;
-}
-
-.slide-14 {
-  background-image: url('../images/vc-slide-02.jpg');
-  background-position: 50% 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.slide-15 {
-  background-image: url('../images/vc-slide-03.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.slide-16 {
-  background-image: url('../images/vc-slide-04.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.slide-17 {
-  background-image: url('../images/vc-slide-05.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.slide-18 {
-  background-image: url('../images/vc-slide-06.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.slide-19 {
-  background-image: url('../images/vc-slide-07.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .slide-20 {
@@ -3727,12 +3732,6 @@ body {
   background-repeat: no-repeat;
 }
 
-.slide-52 {
-  background-image: url('../images/vc-slide-08.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 
 .slide-53 {
   background-image: url('../images/xv-slide-10.jpg');
@@ -4155,13 +4154,6 @@ body {
   width: 100%;
 }
 
-.slide-60 {
-  background-image: url('../images/vc-slide-09.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 @media screen and (min-width: 1280px) {
   .tab-link-tab-1 {
     width: 40%;
@@ -4187,13 +4179,6 @@ body {
 
   .slider-arrow-2.left {
     left: -5%;
-  }
-
-  .slide-60 {
-    background-image: url('../images/vc-slide-09.jpg');
-    background-position: 50% 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
   }
 }
 
@@ -4514,14 +4499,6 @@ body {
 
   .slider-galeria {
     height: 100vh;
-  }
-
-  .slide-14 {
-    background-position: 50% 0%;
-  }
-
-  .slide-17 {
-    background-position: 50% 0%;
   }
 
   .cocina-galeria-section {
