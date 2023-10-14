@@ -1707,75 +1707,88 @@ body {
   background-image: url('../images/banquete-slide-01.jpg');
 }
 
-.col-img-slide.salon._01 {
-  background-image: url('../images/marques-slide-01.jpg');
-  background-position: 50% 50%;
-  background-size: cover;
+.salon-marques-01 {
+  background-image: url('/images/marques-slide-01.jpg');
 }
 
-.col-img-slide.salon._02 {
-  background-image: url('../images/marques-slide-02.jpg');
+.salon-marques-02 {
+  background-image: url('/images/marques-slide-02.jpg');
 }
 
-.col-img-slide.salon._03 {
-  background-image: url('../images/marques-slide-03.jpg');
+.salon-marques-03 {
+  background-image: url('/images/marques-slide-03.jpg');
 }
 
-.col-img-slide.salon._04 {
-  background-image: url('../images/marques-slide-04.jpg');
+.salon-marques-04 {
+  background-image: url('/images/marques-slide-04.jpg');
 }
 
-.col-img-slide.salon._05 {
-  background-image: url('../images/marques-slide-05.jpg');
+.salon-marques-05 {
+  background-image: url('/images/marques-slide-05.jpg');
 }
 
-.col-img-slide.salon._06 {
-  background-image: url('../images/marques-slide-06.jpg');
+.salon-marques-06 {
+  background-image: url('/images/marques-slide-06.jpg');
 }
 
-.col-img-slide.salon._07 {
-  background-image: url('../images/fundador-slide-01.jpg');
+.salon-marques-07 {
+  background-image: url('/images/marques-slide-07.jpg');
 }
 
-.col-img-slide.salon._08 {
-  background-image: url('../images/fundador-slide-02.jpg');
+.salon-fundador-01 {
+  background-image: url('/images/fundador-slide-01.jpg');
 }
 
-.col-img-slide.salon._09 {
-  background-image: url('../images/fundador-slide-03.jpg');
+.salon-fundador-02 {
+  background-image: url('/images/fundador-slide-02.jpg');
 }
 
-.col-img-slide.salon._10 {
-  background-image: url('../images/fundador-slide-04.jpg');
+.salon-fundador-03 {
+  background-image: url('/images/fundador-slide-03.jpg');
 }
 
-.col-img-slide.salon._11 {
-  background-image: url('../images/fundador-slide-05.jpg');
+.salon-fundador-04 {
+  background-image: url('/images/fundador-slide-04.jpg');
 }
 
-.col-img-slide.salon._13 {
-  background-image: url('../images/real-slide-01.jpg');
+.salon-fundador-05 {
+  background-image: url('/images/fundador-slide-05.jpg');
 }
 
-.col-img-slide.salon._14 {
-  background-image: url('../images/real-slide-02.jpg');
+.salon-fundador-06 {
+  background-image: url('/images/fundador-slide-06.jpg');
 }
 
-.col-img-slide.salon._15 {
-  background-image: url('../images/real-slide-03.jpg');
-  background-position: 0% 50%;
+.salon-fundador-07 {
+  background-image: url('/images/fundador-slide-07.jpg');
 }
 
-.col-img-slide.salon._16 {
-  background-image: url('../images/real-slide-04.jpg');
+.salon-real-01 {
+  background-image: url('/images/real-slide-01.jpg');
 }
 
-.col-img-slide.salon._17 {
-  background-image: url('../images/real-slide-05.jpg');
+.salon-real-02 {
+  background-image: url('/images/real-slide-02.jpg');
 }
 
-.col-img-slide.salon._18 {
-  background-image: url('../images/real-slide-06.jpg');
+.salon-real-03 {
+  background-image: url('/images/real-slide-03.jpg');
+}
+
+.salon-real-04 {
+  background-image: url('/images/real-slide-04.jpg');
+}
+
+.salon-real-05 {
+  background-image: url('/images/real-slide-05.jpg');
+}
+
+.salon-real-06 {
+  background-image: url('/images/real-slide-06.jpg');
+}
+
+.salon-real-07 {
+  background-image: url('/images/real-slide-07.jpg');
 }
 
 .col-img-slide.salon._19 {
@@ -1833,31 +1846,6 @@ body {
 
 .col-img-slide.salon._33 {
   background-image: none;
-}
-
-.col-img-slide.salon._35 {
-  background-image: url('../images/marques-slide-07.jpg');
-}
-
-.col-img-slide.salon._36 {
-  background-image: url('../images/marques-slide-09.jpg');
-}
-
-.col-img-slide.salon._37 {
-  background-image: url('../images/fundador-slide-08.jpg');
-}
-
-.col-img-slide.salon._38 {
-  background-image: url('../images/fundador-slide-07.jpg');
-  background-position: 50% 50%;
-}
-
-.col-img-slide.salon._39 {
-  background-image: url('../images/real-slide-078.jpg');
-}
-
-.col-img-slide.salon._40 {
-  background-image: url('../images/real-slide-8.jpg');
 }
 
 .col-img-slide.salon._41 {
@@ -6280,72 +6268,7 @@ body {
     padding-bottom: 100px;
   }
 
-  .col-img-slide.salon._01 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._02 {
-    height: 400px;
-    background-size: cover;
-  }
-
-  .col-img-slide.salon._03 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._04 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._05 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._06 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._07 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._08 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._09 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._10 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._11 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._13 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._14 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._15 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._16 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._17 {
-    height: 400px;
-  }
-
-  .col-img-slide.salon._18 {
+  .salones-slider .col-img-slide {
     height: 400px;
   }
 
@@ -6402,48 +6325,6 @@ body {
 
   .col-img-slide.salon._34 {
     height: 400px;
-  }
-
-  .col-img-slide.salon._35 {
-    height: 400px;
-    background-image: url('../images/marques-slide-07.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._36 {
-    height: 400px;
-    background-image: url('../images/marques-slide-09.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._37 {
-    height: 400px;
-    background-image: url('../images/fundador-slide-08.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._38 {
-    height: 400px;
-    background-image: url('../images/fundador-slide-07.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._39 {
-    height: 400px;
-    background-image: url('../images/real-slide-078.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  .col-img-slide.salon._40 {
-    height: 400px;
-    background-image: url('../images/real-slide-8.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
   }
 
   .col-img-slide.salon._41 {
