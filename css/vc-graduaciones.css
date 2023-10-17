@@ -3877,6 +3877,18 @@ body {
   background-image: url('/images/cocina-slide-09.jpg');
 }
 
+.cocina-slide-07 {
+  background-image: url('/images/cocina-slide-10.jpg');
+}
+
+.cocina-slide-08 {
+  background-image: url('/images/cocina-slide-11.jpg');
+}
+
+.cocina-slide-09 {
+  background-image: url('/images/cocina-slide-12.jpg');
+}
+
 .g-recaptcha {
   margin-bottom: 10px;
 }
